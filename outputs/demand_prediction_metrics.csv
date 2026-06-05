@@ -1,0 +1,2 @@
+agent,rmse_occupancy,mae_occupancy,r2_score,train_rows_used,holdout_rows,holdout_start,holdout_end
+Demand Prediction Agent,4.237397973664329,2.237464010182215,0.9713633685743821,120000,411996,2022-07-13 04:00:00,2022-07-18 22:55:00

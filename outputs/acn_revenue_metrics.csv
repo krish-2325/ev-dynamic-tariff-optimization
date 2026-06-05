@@ -1,0 +1,6 @@
+metric,value,dataset
+Baseline revenue INR,2025419.748493453,ACN
+Dynamic tariff revenue INR,2050451.106788875,ACN
+Revenue gain percent vs INR 15/kWh baseline,1.2358602859501526,ACN
+Customer response rate proxy,-0.004181750517990412,ACN + elasticity assumption
+Pricing efficiency INR per adjusted kWh,15.248764047463828,ACN

@@ -1,0 +1,9 @@
+KPI,Value,Source,Interpretation
+Revenue Gain %,1.1250092162986347,ACN,Dynamic pricing revenue lift versus fixed baseline
+Off-Peak Uplift %,-1.8414517762641736,UrbanEV,Demand shifted into off-peak hours
+Utilization Improvement %,-1.4109913902842537,UrbanEV,Change in average charger utilization after pricing
+Waiting Time Reduction %,1.4109913902842537,UrbanEV proxy,Reduction in utilization-based waiting pressure
+Customer Response Rate %,-0.4908809796670743,ACN + elasticity,Estimated customer volume response to tariff changes
+Pricing Efficiency Score,0.6875450035128454,ACN,Revenue gain produced per average tariff change
+Demand Forecast Accuracy R2,0.980849934520357,UrbanEV,Demand model explanatory accuracy
+Demand Forecast RMSE,3.4651610276553098,UrbanEV,Demand model average large-error magnitude

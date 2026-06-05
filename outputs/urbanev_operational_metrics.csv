@@ -1,0 +1,7 @@
+metric,value,dataset
+Mean predicted charger utilization,0.28961042159625405,UrbanEV
+Mean expected charger utilization after pricing,0.28615341633188723,UrbanEV
+Congestion probability before pricing,0.008085029951747104,UrbanEV
+Congestion probability after pricing,0.006521907979689124,UrbanEV
+Off-peak uplift from discount pricing,0.004066229038975466,UrbanEV
+Average waiting-time proxy reduction,0.42380430876170305,UrbanEV

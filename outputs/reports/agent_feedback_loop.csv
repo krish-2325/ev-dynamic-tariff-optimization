@@ -1,0 +1,6 @@
+Signal,Agent Action
+High forecast RMSE,Retrain demand model and inspect drift
+High peak utilization,Increase peak tariff or add congestion threshold
+Low off-peak uplift,Increase off-peak discount test
+Low revenue gain,Reduce discounts and recalibrate price response
+Negative customer response,Moderate tariff changes and improve communication

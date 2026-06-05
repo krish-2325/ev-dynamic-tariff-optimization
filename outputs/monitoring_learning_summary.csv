@@ -1,0 +1,20 @@
+metric,value,dataset,agent
+agent,Demand Prediction Agent,UrbanEV,Demand Prediction Agent
+rmse_occupancy,4.237397973664329,UrbanEV,Demand Prediction Agent
+mae_occupancy,2.237464010182215,UrbanEV,Demand Prediction Agent
+r2_score,0.9713633685743821,UrbanEV,Demand Prediction Agent
+train_rows_used,120000,UrbanEV,Demand Prediction Agent
+holdout_rows,411996,UrbanEV,Demand Prediction Agent
+holdout_start,2022-07-13 04:00:00,UrbanEV,Demand Prediction Agent
+holdout_end,2022-07-18 22:55:00,UrbanEV,Demand Prediction Agent
+Mean predicted charger utilization,0.28961042159625405,UrbanEV,Monitoring & Learning Agent
+Mean expected charger utilization after pricing,0.28615341633188723,UrbanEV,Monitoring & Learning Agent
+Congestion probability before pricing,0.008085029951747104,UrbanEV,Monitoring & Learning Agent
+Congestion probability after pricing,0.006521907979689124,UrbanEV,Monitoring & Learning Agent
+Off-peak uplift from discount pricing,0.004066229038975466,UrbanEV,Monitoring & Learning Agent
+Average waiting-time proxy reduction,0.42380430876170305,UrbanEV,Monitoring & Learning Agent
+Baseline revenue INR,2025419.748493453,ACN,Tariff Pricing / Monitoring Agent
+Dynamic tariff revenue INR,2050451.106788875,ACN,Tariff Pricing / Monitoring Agent
+Revenue gain percent vs INR 15/kWh baseline,1.2358602859501526,ACN,Tariff Pricing / Monitoring Agent
+Customer response rate proxy,-0.004181750517990412,ACN + elasticity assumption,Tariff Pricing / Monitoring Agent
+Pricing efficiency INR per adjusted kWh,15.248764047463828,ACN,Tariff Pricing / Monitoring Agent

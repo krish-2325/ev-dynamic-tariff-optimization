@@ -1,0 +1,16 @@
+feature,importance
+lag_1,0.45816517
+rolling_mean_12,0.44609055
+lag_288,0.06433403
+hour,0.004034002
+count,0.0037518137
+CBD,0.0035859232
+fast_count,0.0028904162
+lag_12,0.002682601
+is_weekend,0.0020906562
+neighbor_occupancy,0.002000545
+slow_count,0.0019492146
+price,0.0015982668
+dynamic_pricing,0.0015426025
+area,0.0013135124
+rolling_std_12,0.0013012314
