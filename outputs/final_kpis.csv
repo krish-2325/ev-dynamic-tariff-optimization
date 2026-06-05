@@ -1,9 +1,9 @@
 KPI,Value,Source
-Revenue Gain %,1.1250092162986347,ACN
+Revenue Gain %,0.9780356505366608,ACN
 Off-Peak Uplift %,-1.8414517762641736,UrbanEV
 Utilization Improvement %,-1.4109913902842537,UrbanEV
 Waiting Time Reduction %,1.4109913902842537,UrbanEV proxy
-Customer Response Rate %,-0.4908809796670743,ACN + elasticity
-Pricing Efficiency Score,0.6875450035128454,ACN
+Customer Response Rate %,-0.9984698979931927,ACN + elasticity
+Pricing Efficiency Score,0.4884658220891565,ACN
 Demand Forecast Accuracy R2,0.980849934520357,UrbanEV
 Demand Forecast RMSE,3.4651610276553098,UrbanEV
