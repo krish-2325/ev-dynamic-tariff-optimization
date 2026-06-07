@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+.ipynb_checkpoints/
+
+outputs/figures/*.png
+outputs/reports/*.csv
+
+*.parquet
+*.pkl
