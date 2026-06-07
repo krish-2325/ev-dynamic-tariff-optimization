@@ -1,9 +1,9 @@
-KPI,Value,Source,Interpretation
-Revenue Gain %,0.9780356505366608,ACN,Dynamic pricing revenue lift versus fixed baseline
-Off-Peak Uplift %,-1.8414517762641736,UrbanEV,Demand shifted into off-peak hours
-Utilization Improvement %,-1.4109913902842537,UrbanEV,Change in average charger utilization after pricing
-Waiting Time Reduction %,1.4109913902842537,UrbanEV proxy,Reduction in utilization-based waiting pressure
-Customer Response Rate %,-0.9984698979931927,ACN + elasticity,Estimated customer volume response to tariff changes
-Pricing Efficiency Score,0.4884658220891565,ACN,Revenue gain produced per average tariff change
-Demand Forecast Accuracy R2,0.980849934520357,UrbanEV,Demand model explanatory accuracy
-Demand Forecast RMSE,3.4651610276553098,UrbanEV,Demand model average large-error magnitude
+KPI,Value,Source,Interpretation,Status
+Revenue Gain %,11.26414364176688,ACN,Dynamic pricing revenue lift vs fixed ₹15/kWh baseline,✓ GOOD
+Off-Peak Uplift %,2.092148598107877,UrbanEV,Session increase in low-demand hours after discount pricing,✓ GOOD
+Utilization Improvement %,6.5401,UrbanEV,Change in avg charger utilization across network after pricing,✓ GOOD
+Waiting Time Reduction %,24.777621143672945,UrbanEV proxy,Reduction in utilization-pressure proxy at congested hours,✓ GOOD
+Customer Response Rate %,5.8375,ACN + elasticity,Estimated volume shift from elasticity model (ε = −0.50),—
+Pricing Efficiency Score,0.4464285651548724,ACN,Revenue gain per 1% average tariff movement,—
+Demand Forecast R²,0.9849040250985664,UrbanEV,XGBoost variance explained on held-out test set,✓ GOOD
+Demand Forecast RMSE,3.0765846734092945,UrbanEV,XGBoost average large-error magnitude on held-out test set,✓ GOOD

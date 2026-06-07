@@ -1,6 +1,6 @@
 Recommendation
-Apply surcharge during high-utilization periods
-Offer discounts during low-utilization periods
-Introduce idle fees after charging completion
-Target peak idle-time hours for operational intervention
-Continuously monitor customer response to tariff changes
+Maintain surge pricing above ₹18 during peak utilization hours
+Sustain off-peak discount at ₹12 — uplift of 2.1% confirmed
+Introduce idle fees after charging completion to reduce average idle time
+Re-estimate elasticity (currently -0.38769059649187587) after 30-day live pilot
+Recalibrate thresholds quarterly using updated UrbanEV demand forecasts

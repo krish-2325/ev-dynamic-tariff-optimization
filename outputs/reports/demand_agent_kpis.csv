@@ -1,6 +1,5 @@
 KPI,Value
-Demand Forecast Accuracy R2,0.980849934520357
-Demand Forecast RMSE,3.4651610276553098
-Charger Utilization Rate,0.28827014308400895
-Utilization Improvement %,-1.4109913902842535
-Waiting Time Reduction %,1.4109913902842535
+Demand Forecast Accuracy R2,0.9849040250985663
+Demand Forecast RMSE,3.0765846734092945
+Charger Utilization Rate,0.28754787834938866
+Waiting Time Proxy Before,1.0345980412836975
