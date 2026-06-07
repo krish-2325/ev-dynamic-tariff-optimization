@@ -1,0 +1,8 @@
+Metric,Value
+Revenue Gain %,11.26414364176688
+Off-Peak Uplift %,2.092148598107877
+Waiting Time Reduction %,24.777621143672945
+XGBoost RMSE,3.0765846734092945
+Model Performance vs Ridge %,-30.87547041426652
+Feedback Episodes Run,40.0
+Active Alerts,0.0

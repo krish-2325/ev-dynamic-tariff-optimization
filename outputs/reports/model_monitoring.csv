@@ -1,0 +1,2 @@
+baseline_rmse (Ridge),current_rmse (XGBoost),performance_gain_pct,status
+4.450785693367332,3.0765846734092945,-30.87547041426652,DEPLOYED
